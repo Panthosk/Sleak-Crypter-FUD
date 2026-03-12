@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{3A2E3A65-C2C1-4740-A498-E32BE8FE3DA2}") = "Sleak Crypter", "Sleak Crypter.csproj", "{269F47B4-0631-46BC-A893-864E22883230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269F47B4-0631-46BC-A893-864E22883230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269F47B4-0631-46BC-A893-864E22883230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269F47B4-0631-46BC-A893-864E22883230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269F47B4-0631-46BC-A893-864E22883230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D449955A-0ABD-415B-A94C-34EEE616BC23}
+	EndGlobalSection
+EndGlobal
